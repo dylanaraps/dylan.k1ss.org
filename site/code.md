@@ -2,8 +2,8 @@
 
 The myriad of open source projects I have created over the years.
 
-- [neofetch](https://github.com/dylanaraps/neofetch)
-- [pfetch](https://github.com/dylanaraps/pfetch)
+- [neofetch](https://github.com/dylanaraps/neofetch) A command-line system information tool written in bash 3.2+
+- [pfetch](https://github.com/dylanaraps/pfetch) A pretty system information tool written in POSIX sh.
 - [pywal](https://github.com/dylanaraps/pywal)
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
 - [pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible)

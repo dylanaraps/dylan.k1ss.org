@@ -12,6 +12,8 @@ page() {
         # Generate HTML from txt files.
         *.md)
             pandoc \
+                -f markdown \
+                -t html5 \
                 --template="$PWD/template.html" \
                 --metadata title="dylan araps ${title:+- $title}" \
                 < "site/$page" > "docs/${page%%.md}.html"

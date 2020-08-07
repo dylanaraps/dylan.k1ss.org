@@ -1,8 +1,7 @@
 ## Pixel Art
 
 A mishmash of my decade old pixel art work. Whatever I could still find.
-Most of it is lost. Zoom the page for a better look. Scaling is set to
-nearest neighbour.
+Most of it is lost. Zoom the page for a better look.
 
 <br>
 <img src="https://user-images.githubusercontent.com/6799467/89662778-3eba7300-d8dd-11ea-8802-cc93976be5bc.png" alt="1" loading=lazy class="p i">

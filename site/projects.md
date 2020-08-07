@@ -1,4 +1,4 @@
-projects
+## projects
 
 $/dylanaraps/neofetch
 $/dylanaraps/pfetch

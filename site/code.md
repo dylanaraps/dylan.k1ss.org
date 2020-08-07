@@ -17,20 +17,20 @@ Not an exhaustive list. See [github](https://github.com/dylanaraps).
 
 ### System information
 
-<a href="https://github.com/dylanaraps/neofetch"><img src="https://gh-card.dev/repos/dylanaraps/neofetch.svg" loading=lazy></a>
-<a href="https://github.com/dylanaraps/pfetch"><img src="https://gh-card.dev/repos/dylanaraps/pfetch.svg" loading=lazy></a>
+<a href="https://github.com/dylanaraps/neofetch"><img src="https://gh-card.dev/repos/dylanaraps/neofetch.svg" loading=lazy class=gh></a>
+<a href="https://github.com/dylanaraps/pfetch"><img src="https://gh-card.dev/repos/dylanaraps/pfetch.svg" loading=lazy class=gh></a>
 
 
 ### System theming
 
-<a href="https://github.com/dylanaraps/paleta"><img src="https://gh-card.dev/repos/dylanaraps/paleta.svg" loading=lazy></a>
-<a href="https://github.com/dylanaraps/pywal"><img src="https://gh-card.dev/repos/dylanaraps/pywal.svg" loading=lazy></a>
+<a href="https://github.com/dylanaraps/paleta"><img src="https://gh-card.dev/repos/dylanaraps/paleta.svg" loading=lazy class=gh></a>
+<a href="https://github.com/dylanaraps/pywal"><img src="https://gh-card.dev/repos/dylanaraps/pywal.svg" loading=lazy class=gh></a>
 
 
 ### Books
 
-<a href="https://github.com/dylanaraps/pure-bash-bible"><img src="https://gh-card.dev/repos/dylanaraps/pure-bash-bible.svg" loading=lazy></a>
-<a href="https://github.com/dylanaraps/pure-sh-bible"><img src="https://gh-card.dev/repos/dylanaraps/pure-sh-bible.svg" loading=lazy></a>
+<a href="https://github.com/dylanaraps/pure-bash-bible"><img src="https://gh-card.dev/repos/dylanaraps/pure-bash-bible.svg" loading=lazy class=gh></a>
+<a href="https://github.com/dylanaraps/pure-sh-bible"><img src="https://gh-card.dev/repos/dylanaraps/pure-sh-bible.svg" loading=lazy class=gh></a>
 
 - [writing-a-tui-in-bash](https://github.com/dylanaraps/writing-a-tui-in-bash)
 - [fff](https://github.com/dylanaraps/fff)

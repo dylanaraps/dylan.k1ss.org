@@ -1,5 +1,5 @@
-## contact
+## Contact
 
-- IRC:    #kisslinux at https://freenode.net
+- IRC:    #kisslinux at [freenode.net](https://freenode.net)
 - Email:  dylan@k1ss.org
-- GitHub: https://github.com/dylanaraps
+- GitHub: [dylanaraps](https://github.com/dylanaraps)

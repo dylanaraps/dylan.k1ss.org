@@ -1,3 +1,3 @@
-## blog
+## Blog
 
 - eventually

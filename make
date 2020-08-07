@@ -11,7 +11,8 @@ page() {
     case $page in
         # Generate HTML from txt files.
         *.md)
-            pandoc < "site/$page" > "docs/${page%%.md}.html"
+            pandoc --template="$PWD/template.html" \
+                < "site/$page" > "docs/${page%%.md}.html"
         ;;
 
         # Copy over any non-txt files.

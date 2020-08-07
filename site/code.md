@@ -3,8 +3,7 @@
 The myriad of open source projects I have created over the years.
 Not an exhaustive list. See [github](https://github.com/dylanaraps).
 
-I have also created my own Linux distribution. More information
-here, see [kiss](https://k1ss.org).
+I have also created my own Linux distribution, see [kiss](https://k1ss.org).
 
 
 ### Index

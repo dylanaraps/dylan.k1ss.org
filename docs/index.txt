@@ -1,1 +1,28 @@
-my name is dylan araps
+I write open source software.
+
+
+projects
+________________________________________________________________________________
+
+$/dylanaraps/neofetch
+$/dylanaraps/pfetch
+$/dylanaraps/pywal
+$/dylanaraps/pure-bash-bible
+$/dylanaraps/pure-sh-bible
+$/dylanaraps/fff
+$/dylanaraps/paleta
+$/dylanaraps/shfm
+$/dylanaraps/pash
+$/dylanaraps/root.vim
+$/dylanaraps/sowm
+$/dylanaraps/pxltrm
+$/dylanaraps/torque
+$/dylanaraps/promptless
+$/dylanaraps/eiwd
+$/dylanaraps/birch
+$/dylanaraps/bum
+$/dylanaraps/wal
+$/dylanaraps/wal.vim
+$/dylanaraps/clutter-home
+$/dylanaraps/pow
+$/dylanaraps/writing-a-tui-in-bash

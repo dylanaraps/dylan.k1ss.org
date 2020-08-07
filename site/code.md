@@ -1,5 +1,7 @@
 ## Code
 
+The myriad of open source projects I have created over the years.
+
 - [neofetch](https://github.com/dylanaraps/neofetch)
 - [pfetch](https://github.com/dylanaraps/pfetch)
 - [pywal](https://github.com/dylanaraps/pywal)

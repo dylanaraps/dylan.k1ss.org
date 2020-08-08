@@ -11,12 +11,15 @@ page() {
     case $page in
         # Generate HTML from txt files.
         *.md)
+            < "site/$page" \
             pandoc \
                 -f markdown \
                 -t html5 \
                 --template="$PWD/template.html" \
-                --metadata title="dylan araps ${title:+- $title}" \
-                < "site/$page" > "docs/${page%%.md}.html"
+                --metadata title="dylan araps ${title:+- $title}" |
+
+            sed ':a;N;$!ba;s/>\s*</></g' \
+                > "docs/${page%%.md}.html"
         ;;
 
         # Copy over any non-txt files.

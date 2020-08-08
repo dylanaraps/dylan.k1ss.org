@@ -2,8 +2,8 @@
 
 ## Code
 
-the myriad of open source projects i have created over the years.
-not an exhaustive list, see [github](https://github.com/dylanaraps).
+The myriad of open source projects I have created over the years.
+Not an exhaustive list, see [github](https://github.com/dylanaraps).
 
 
 <a class=a href="https://k1ss.org"><div class=c>

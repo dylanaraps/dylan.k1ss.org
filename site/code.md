@@ -25,16 +25,20 @@ An independent Linux(R) distribution with a focus on simplicity and the concept 
 Source: [k1ss.org](https://k1ss.org)
 </div>
 
+<div class=c>
 ### neofetch
 
 A command-line system information tool written in bash 3.2+.
 
 Source: [neofetch](https://github.com/dylanaraps/neofetch)
+</div>
 
+<div class=c>
 ### pfetch
 
 A pretty system information tool written in POSIX sh.
 
 Source: [pfetch](https://github.com/dylanaraps/pfetch)
+</div>
 
 

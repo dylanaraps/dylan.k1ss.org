@@ -1,3 +1,5 @@
+<style>.c{width:100%;border 1px solid}</style>
+
 ## Code
 
 the myriad of open source projects i have created over the years.
@@ -15,11 +17,13 @@ not an exhaustive list, see [github](https://github.com/dylanaraps).
 <!-- vim-markdown-toc -->
 
 
+<div class=c>
 ### KISS
 
 An independent Linux(R) distribution with a focus on simplicity and the concept of less is more.
 
 Source: [k1ss.org](https://k1ss.org)
+</div>
 
 ### neofetch
 

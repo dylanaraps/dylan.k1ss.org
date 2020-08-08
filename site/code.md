@@ -1,72 +1,53 @@
 ## Code
 
-The myriad of open source projects I have created over the years.
-Not an exhaustive list, see [github](https://github.com/dylanaraps).
+the myriad of open source projects i have created over the years.
+not an exhaustive list, see [github](https://github.com/dylanaraps).
 
-I have also created my own Linux distribution, see [kiss](https://k1ss.org).
 
 ### Index
 
 <!-- vim-markdown-toc GFM -->
 
-* [System information](#system-information)
-* [System theming](#system-theming)
-* [Books](#books)
-* [File managers](#file-managers)
-* [Password managers](#password-managers)
-* [Window managers](#window-managers)
-* [IRC clients](#irc-clients)
-* [Fun](#fun)
-* [Satire](#satire)
-* [System](#system)
+* [KISS](#kiss)
+* [neofetch](#neofetch)
 
 <!-- vim-markdown-toc -->
 
 
-### System information
+### KISS
 
-<a href="https://github.com/dylanaraps/neofetch"><img src="https://gh-card.dev/repos/dylanaraps/neofetch.svg" loading=lazy class="gh p"></a>
-<a href="https://github.com/dylanaraps/pfetch"><img src="https://gh-card.dev/repos/dylanaraps/pfetch.svg" loading=lazy class="gh p"></a>
+An independent Linux(R) distribution with a focus on simplicity and the concept of less is more.
 
-### System theming
+Source: [k1ss.org](https://k1ss.org)
 
-<a href="https://github.com/dylanaraps/paleta"><img src="https://gh-card.dev/repos/dylanaraps/paleta.svg" loading=lazy class="gh p"></a>
-<a href="https://github.com/dylanaraps/pywal"><img src="https://gh-card.dev/repos/dylanaraps/pywal.svg" loading=lazy class="gh p"></a>
 
-### Books
+### neofetch
 
-<a href="https://github.com/dylanaraps/pure-bash-bible"><img src="https://gh-card.dev/repos/dylanaraps/pure-bash-bible.svg" loading=lazy class="gh p"></a>
-<a href="https://github.com/dylanaraps/pure-sh-bible"><img src="https://gh-card.dev/repos/dylanaraps/pure-sh-bible.svg" loading=lazy class="gh p"></a>
+Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
 
-### File managers
+Source: [neofetch](https://github.com/dylanaraps/neofetch)
 
-<a href="https://github.com/dylanaraps/fff"><img src="https://gh-card.dev/repos/dylanaraps/fff.svg" loading=lazy class="gh p"></a>
-<a href="https://github.com/dylanaraps/shfm"><img src="https://gh-card.dev/repos/dylanaraps/shfm.svg" loading=lazy class="gh p"></a>
 
-### Password managers
 
-<a href="https://github.com/dylanaraps/pash"><img src="https://gh-card.dev/repos/dylanaraps/pash.svg" loading=lazy class="gh p"></a>
+- [neofetch](https://github.com/dylanaraps/neofetch)
+- [pfetch](https://github.com/dylanaraps/pfetch)
 
-### Window managers
+- [paleta](https://github.com/dylanaraps/paleta)
 
-<a href="https://github.com/dylanaraps/sowm"><img src="https://gh-card.dev/repos/dylanaraps/sowm.svg" loading=lazy class="gh p"></a>
+- [pywal](https://github.com/dylanaraps/pywal)
+- [wal](https://github.com/dylanaraps/wal)
+- [wal.vim](https://github.com/dylanaraps/wal.vim)
 
-### IRC clients
+- [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
+- [pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible)
 
-<a href="https://github.com/dylanaraps/birch"><img src="https://gh-card.dev/repos/dylanaraps/birch.svg" loading=lazy class="gh p"></a>
+- [fff](https://github.com/dylanaraps/fff)
+- [shfm](https://github.com/dylanaraps/shfm)
 
-### Fun
-
-<a href="https://github.com/dylanaraps/pxltrm"><img src="https://gh-card.dev/repos/dylanaraps/pxltrm.svg" loading=lazy class="gh p"></a>
-<a href="https://github.com/dylanaraps/torque"><img src="https://gh-card.dev/repos/dylanaraps/torque.svg" loading=lazy class="gh p"></a>
-
-### Satire
-
-<a href="https://github.com/dylanaraps/promptless"><img src="https://gh-card.dev/repos/dylanaraps/promptless.svg" loading=lazy class="gh p"></a>
-<a href="https://github.com/dylanaraps/clutter-home"><img src="https://gh-card.dev/repos/dylanaraps/clutter-home.svg" loading=lazy class="gh p"></a>
-
-### System
-
-<a href="https://github.com/dylanaraps/eiwd"><img src="https://gh-card.dev/repos/dylanaraps/eiwd.svg" loading=lazy class="gh p"></a>
-<a href="https://github.com/dylanaraps/pow"><img src="https://gh-card.dev/repos/dylanaraps/pow.svg" loading=lazy class="gh p"></a>
-
+- [pash](https://github.com/dylanaraps/pash)
+- [sowm](https://github.com/dylanaraps/sowm)
+- [birch](https://github.com/dylanaraps/birch)
+- [pow](https://github.com/dylanaraps/pow)
+- [promptless](https://github.com/dylanaraps/promptless)
+- [clutter-home](https://github.com/dylanaraps/clutter-home)
+- [writing-a-tui-in-bash](https://github.com/dylanaraps/writing-a-tui-in-bash)

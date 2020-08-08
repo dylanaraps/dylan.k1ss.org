@@ -2,7 +2,6 @@
 
 Highlights from my film photography endeavours. Taken with a number of cameras ranging from the 1950s to the early 2000s. Most of it still lives in undeveloped rolls.
 
-<br>
 <img src="https://user-images.githubusercontent.com/6799467/89708531-d3c27800-d980-11ea-8f9d-2e0a648f8f16.jpg" alt=film loading=lazy>
 <img src="https://user-images.githubusercontent.com/6799467/89708527-cb6a3d00-d980-11ea-93a7-92da678561a1.jpg" alt=film loading=lazy>
 <img src="https://user-images.githubusercontent.com/6799467/89708390-695d0800-d97f-11ea-8196-620a08501106.jpg" alt=film loading=lazy>

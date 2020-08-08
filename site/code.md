@@ -1,4 +1,4 @@
-<style>.c{padding:20px;border: 1px solid;margin-bottom:20px}</style>
+<style>a .c{color:#000}.c{padding:20px;border: 1px solid;margin-bottom:20px}.c p,.c h3{text-decoration:none}</style>
 
 ## Code
 

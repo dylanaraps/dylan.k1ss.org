@@ -29,11 +29,6 @@ A pretty system information tool written in POSIX sh.
 <a class=a href="https://github.com/dylanaraps/pywal"><div class=c>
 ### pywal
 A pretty system information tool written in POSIX sh.
-
-See also:
-
-- [wal](https://github.com/dylanaraps/wal)
-- [wal.vim](https://github.com/dylanaraps/wal.vim)
 </div></a>
 
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)

@@ -11,6 +11,11 @@ I like my women how I like my software: open source, bug free and well maintaine
 Shoes suck and socks are redundant, but I'll give a year of my life for a good pair of boots. Upstairs doesn't seem to listen. I'll try asking downstairs.
 
 There's a red 1962 MG convertible in my driveway. A bench for drying gypsy Garlic and storing chair cushions when it rains. Previously owned by Aristotle Onassis, the guy who brought water down from the mountains and removed mosquitoes from the swamp. Jackie O sat as navigator.
-
 I come from down under but I'm now up and over. Boy that was some climb.
 Singapore's swelter sucked the sweat from my skull and second toe. At least my cockles will be warm forever after.
+
+I have a tattoo of hairdressing scissors, a grim reminder never to go near one again. They are vile creatures. You have been warned.
+
+I once festooned an all girls Korean dorm room with regurgitated Korean culture. Still waiting on the cleaning bill. Traveller's tip: local alcohol should only be consumed by locals.
+
+Do as I say, not as I do.

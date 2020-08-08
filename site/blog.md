@@ -3,6 +3,6 @@
 ## Blog
 
 <a class=a href="/post/9999"><div class=c>
-### INSPIRING BEAN QUOTES
+### 7 Inspiring Bean Quotes (number 3 will shock you)
 August 8 2020
 </div></a>

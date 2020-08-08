@@ -11,6 +11,7 @@ I like my women how I like my software: open source, bug free and well maintaine
 Shoes suck and socks are redundant, but I'll give a year of my life for a good pair of boots. Upstairs doesn't seem to listen. I'll try asking downstairs.
 
 There's a red 1962 MG convertible in my driveway. A bench for drying gypsy Garlic and storing chair cushions when it rains. Previously owned by Aristotle Onassis, the guy who brought water down from the mountains and removed mosquitoes from the swamp. Jackie O sat as navigator.
+
 I come from down under but I'm now up and over. Boy that was some climb.
 Singapore's swelter sucked the sweat from my skull and second toe. At least my cockles will be warm forever after.
 

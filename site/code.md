@@ -23,18 +23,29 @@ A pretty system information tool written in POSIX sh.
 
 <a class=a href="https://github.com/dylanaraps/paleta"><div class=c>
 ### paleta
-Change terminal colors on-the-fly independent of terminal emulator.
+A pretty system information tool written in POSIX sh.
 </div></a>
 
+<a class=a href="https://github.com/dylanaraps/pywal"><div class=c>
+### pywal
+A pretty system information tool written in POSIX sh.
 
-- [pywal](https://github.com/dylanaraps/pywal)
+See also:
+
 - [wal](https://github.com/dylanaraps/wal)
 - [wal.vim](https://github.com/dylanaraps/wal.vim)
+</div></a>
+
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
 - [pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible)
+
 - [fff](https://github.com/dylanaraps/fff)
 - [shfm](https://github.com/dylanaraps/shfm)
+
 - [pash](https://github.com/dylanaraps/pash)
 - [sowm](https://github.com/dylanaraps/sowm)
 - [birch](https://github.com/dylanaraps/birch)
 - [pow](https://github.com/dylanaraps/pow)
+- [promptless](https://github.com/dylanaraps/promptless)
+- [clutter-home](https://github.com/dylanaraps/clutter-home)
+- [writing-a-tui-in-bash](https://github.com/dylanaraps/writing-a-tui-in-bash)

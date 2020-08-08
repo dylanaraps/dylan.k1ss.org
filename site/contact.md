@@ -1,4 +1,3 @@
 ## Contact
 
-- Email:  dylan`@`k1ss.org
-- GitHub: [dylanaraps](https://github.com/dylanaraps)
+Send all mail to NICK THE GREEK and all email to dylan`@`k1ss.org

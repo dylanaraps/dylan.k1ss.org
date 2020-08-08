@@ -31,16 +31,42 @@ A pretty system information tool written in POSIX sh.
 A pretty system information tool written in POSIX sh.
 </div></a>
 
-- [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
-- [pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible)
+<a class=a href="https://github.com/dylanaraps/pure-bash-bible"><div class=c>
+### pure-bash-bible
+A pretty system information tool written in POSIX sh.
+</div></a>
 
-- [fff](https://github.com/dylanaraps/fff)
-- [shfm](https://github.com/dylanaraps/shfm)
+<a class=a href="https://github.com/dylanaraps/pure-sh-bible"><div class=c>
+### pure-sh-bible
+A pretty system information tool written in POSIX sh.
+</div></a>
 
-- [pash](https://github.com/dylanaraps/pash)
-- [sowm](https://github.com/dylanaraps/sowm)
-- [birch](https://github.com/dylanaraps/birch)
-- [pow](https://github.com/dylanaraps/pow)
-- [promptless](https://github.com/dylanaraps/promptless)
-- [clutter-home](https://github.com/dylanaraps/clutter-home)
-- [writing-a-tui-in-bash](https://github.com/dylanaraps/writing-a-tui-in-bash)
+<a class=a href="https://github.com/dylanaraps/fff"><div class=c>
+### fff
+A pretty system information tool written in POSIX sh.
+</div></a>
+
+<a class=a href="https://github.com/dylanaraps/shfm"><div class=c>
+### shfm
+A pretty system information tool written in POSIX sh.
+</div></a>
+
+<a class=a href="https://github.com/dylanaraps/pash"><div class=c>
+### pash
+A pretty system information tool written in POSIX sh.
+</div></a>
+
+<a class=a href="https://github.com/dylanaraps/sowm"><div class=c>
+### sowm
+A pretty system information tool written in POSIX sh.
+</div></a>
+
+<a class=a href="https://github.com/dylanaraps/birch"><div class=c>
+### birch
+A pretty system information tool written in POSIX sh.
+</div></a>
+
+<a class=a href="https://github.com/dylanaraps/pow"><div class=c>
+### pow
+A pretty system information tool written in POSIX sh.
+</div></a>

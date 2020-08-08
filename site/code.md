@@ -1,4 +1,4 @@
-<style>.c{padding:20px;border: 1px solid}</style>
+<style>.c{padding:20px;border: 1px solid;margin-bottom:15px}</style>
 
 ## Code
 

@@ -7,3 +7,7 @@ I am the village wizard and my wand fixes all tablets brought before me.
 My price is fish or garden weeds and for the more difficult jobs, I advise consultation with the local priest. The priest takes money.
 
 I like my women how I like my software: open source, bug free and well maintained. I haven't found one yet but all roads lead to Rome eventually. If you're in Italy, I'll be stopping by.
+
+Shoes suck and socks are redundant, but I'll give a year of my life for a good pair of boots. Upstairs doesn't seem to listen. I'll try asking downstairs.
+
+There's a red 1962 MG convertible in my driveway. A bench for drying gypsy Garlic and storing chair cushions when it rains. Previously owned by Aristotle Onassis, the guy who brought water down from the mountains and removed mosquitoes from the swamp.

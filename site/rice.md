@@ -12,5 +12,5 @@ Screenshots of my system over the years in no particular order.
 <img src="https://user-images.githubusercontent.com/6799467/89709296-420a3900-d987-11ea-817d-bfcacab62d02.jpg" alt=film loading=lazy>
 <img src="https://user-images.githubusercontent.com/6799467/89709300-4898b080-d987-11ea-8362-33b086925bc4.png" alt=film loading=lazy>
 <img src="https://user-images.githubusercontent.com/6799467/89709114-a6c49400-d985-11ea-935a-e98b8f499b04.jpg" alt=film loading=lazy>
-<img src="https://user-images.githubusercontent.com/6799467/89709114-a6c49400-d985-11ea-935a-e98b8f499b04.jpg" alt=film loading=lazy>
+<img src="https://user-images.githubusercontent.com/6799467/89709297-459dc000-d987-11ea-968d-e9bb9a2f58fb.png" alt=film loading=lazy>
 

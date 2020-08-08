@@ -1,4 +1,4 @@
-<style>.a{color:#000;text-decoration:none}.c{padding:20px;border: 1px solid;margin-bottom:20px}</style>
+<style>.a{color:#000;text-decoration:none}.c{padding:20px;border: 1px solid;margin-bottom:20px}.c:hover{border-color:red}</style>
 
 ## Code
 

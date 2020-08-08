@@ -1,6 +1,6 @@
 ## Rice
 
-Screenshots of my system over the years in no particular order.
+Screenshots of my system over the years (*in no particular order*).
 
 <br>
 <img src="https://user-images.githubusercontent.com/6799467/89709330-8695d480-d987-11ea-9767-76c0627697cf.jpg" alt=film loading=lazy>

@@ -6,17 +6,6 @@ the myriad of open source projects i have created over the years.
 not an exhaustive list, see [github](https://github.com/dylanaraps).
 
 
-### Index
-
-<!-- vim-markdown-toc GFM -->
-
-* [KISS](#kiss)
-* [neofetch](#neofetch)
-* [pfetch](#pfetch)
-
-<!-- vim-markdown-toc -->
-
-
 <div class=c>
 ### KISS
 

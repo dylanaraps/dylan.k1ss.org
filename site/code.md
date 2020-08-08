@@ -23,50 +23,50 @@ A pretty system information tool written in POSIX sh.
 
 <a class=a href="https://github.com/dylanaraps/paleta"><div class=c>
 ### paleta
-A pretty system information tool written in POSIX sh.
+Change terminal colors on-the-fly independent of terminal emulator.
 </div></a>
 
 <a class=a href="https://github.com/dylanaraps/pywal"><div class=c>
 ### pywal
-A pretty system information tool written in POSIX sh.
+Generate and change color-schemes on the fly.
 </div></a>
 
 <a class=a href="https://github.com/dylanaraps/pure-bash-bible"><div class=c>
 ### pure-bash-bible
-A pretty system information tool written in POSIX sh.
+A collection of pure bash alternatives to external processes.
 </div></a>
 
 <a class=a href="https://github.com/dylanaraps/pure-sh-bible"><div class=c>
 ### pure-sh-bible
-A pretty system information tool written in POSIX sh.
+A collection of pure POSIX sh alternatives to external processes.
 </div></a>
 
 <a class=a href="https://github.com/dylanaraps/fff"><div class=c>
 ### fff
-A pretty system information tool written in POSIX sh.
+A simple file manager written in bash.
 </div></a>
 
 <a class=a href="https://github.com/dylanaraps/shfm"><div class=c>
 ### shfm
-A pretty system information tool written in POSIX sh.
+A file manager written in POSIX shell
 </div></a>
 
 <a class=a href="https://github.com/dylanaraps/pash"><div class=c>
 ### pash
-A pretty system information tool written in POSIX sh.
+A simple password manager using GPG written in POSIX sh.
 </div></a>
 
 <a class=a href="https://github.com/dylanaraps/sowm"><div class=c>
 ### sowm
-A pretty system information tool written in POSIX sh.
+An itsy bitsy floating window manager (220~ sloc!).
 </div></a>
 
 <a class=a href="https://github.com/dylanaraps/birch"><div class=c>
 ### birch
-A pretty system information tool written in POSIX sh.
+ An IRC client written in bash
 </div></a>
 
 <a class=a href="https://github.com/dylanaraps/pow"><div class=c>
 ### pow
-A pretty system information tool written in POSIX sh.
+Simple laptop power management.
 </div></a>

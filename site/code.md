@@ -1,4 +1,4 @@
-<style>.c{width:100%;border 1px solid}</style>
+<style>.c{padding:20px;border: 1px solid}</style>
 
 ## Code
 

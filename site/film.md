@@ -1,6 +1,6 @@
 ## Film
 
-Highlights from my film photography endeavours. Taken with a number of cameras ranging from the 1950s to the early 2000s.
+Highlights from my film photography endeavours. Taken with a number of cameras ranging from the 1950s to the early 2000s. Most of it still lives in undeveloped rolls.
 
 <br>
 <img src="https://user-images.githubusercontent.com/6799467/89708531-d3c27800-d980-11ea-8f9d-2e0a648f8f16.jpg" alt=film loading=lazy>

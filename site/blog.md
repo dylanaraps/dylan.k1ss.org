@@ -2,7 +2,7 @@
 
 ## Blog
 
-<a class=a href="/post/9999"><div class=c>
+<a class=a href="/post/9998"><div class=c>
 ### justgreecethings
 August 11 2020
 </div></a>

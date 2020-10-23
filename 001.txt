@@ -1,0 +1,9 @@
+  +--------------------------------------------------------------------------+
+  |                                                                          |
+  |  Nothing much uses this interface yet, but this is a classic chicken     |
+  |  and egg scenario, and I think it's important to encourage the egg       |
+  |  to lay a chicken.                                                       |
+  |                                                                          |
+  |                                       https://upower.freedesktop.org     |
+  |                                                                          |
+  +--------------------------------------------------------------------------+
